@@ -1,6 +1,11 @@
 # OregonTrail1978
 'Oregon Trail' as Printed in the May/June 1978 Issue of Creative Computing Magazine
 
+This is a modification by Alvaro Alea on 2019 of the modification of Christopher Pedersen 
+in order to execute on a 8bits's Sinclair ZX Spectrum Computer
+The source code must be compiled with Boriel's ZX Basic Compiler (http://boriel.com/wiki/en/index.php/ZXBasic)
+
+
 The source code was modified in a few areas by myself (Christopher Pedersen) in 2018
 in order to make the program compatible with the version of BASIC which I'm currently
 running on my own personal computer-- Chipmunk BASIC (http://www.nicholson.com/rhn/basic/).
