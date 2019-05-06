@@ -5,6 +5,15 @@ This is a modification by Alvaro Alea on 2019 of the modification of Christopher
 in order to execute on a 8bits's Sinclair ZX Spectrum Computer
 The source code must be compiled with Boriel's ZX Basic Compiler (http://boriel.com/wiki/en/index.php/ZXBasic)
 
+MILESTONES:
+
+V0.1 -> Make it Completely playable as in 1978 edition
+V0.2 -> Make it Screen-driven instead of text-driven
+V0.3 -> Include options of moderms versions, like name of people, works, and expecial places
+V0.4 -> Graphics!
+V0.5 -> Interactive Hunt
+V0.6 -> Time tell...
+
 
 The source code was modified in a few areas by myself (Christopher Pedersen) in 2018
 in order to make the program compatible with the version of BASIC which I'm currently
