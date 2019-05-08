@@ -101,6 +101,7 @@
 #define S_TOTAL_MILEAGE "DISTANCIA RECORRIDA: "
 #define S_FOOD_LOW "DEBERIAS CAZAR O COMPRAR COMIDA PRONTO!!!!"
 #define S_BILL_DOCTOR "La factura del Doctor son $20"
+
 #define S_EAT1 "***COMIENDO***"
 #define S_EAT2 "Como quieres comer:" 
 #define S_EAT3 "(1) Pobremente"

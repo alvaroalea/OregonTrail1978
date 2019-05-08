@@ -7,12 +7,12 @@ The source code must be compiled with Boriel's ZX Basic Compiler (http://boriel.
 
 MILESTONES:
 
-V0.1 -> Make it Completely playable as in 1978 edition
-V0.2 -> Make it Screen-driven instead of text-driven
-V0.3 -> Include options of moderms versions, like name of people, works, and expecial places
-V0.4 -> Graphics!
-V0.5 -> Interactive Hunt
-V0.6 -> Time tell...
+- V0.1 -> Make it Completely playable as in 1978 edition
+- V0.2 -> Make it Screen-driven instead of text-driven
+- V0.3 -> Include options of moderms versions, like name of people, works, and expecial places
+- V0.4 -> Graphics!
+- V0.5 -> Interactive Hunt
+- V0.6 -> Time tell...
 
 
 The source code was modified in a few areas by myself (Christopher Pedersen) in 2018
