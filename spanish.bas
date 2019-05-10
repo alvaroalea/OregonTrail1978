@@ -145,7 +145,7 @@
 #define S_DIE_ILL2 "Neumonia"
 #define S_DIE_INJURIES "las heridas"
 #define S_DIE_01 "Debido a esta desafortunada     situacion, hay una serie de"
-#define S_DIE_02 "formalidades por las que debemos pasar:"
+#define S_DIE_02 "formalidades por las que debemospasar:"
 #define S_DIE_03 "Desea un sacerdote?"
 #define S_DIE_04 "Desea un funeral pomposo?"
 #define S_DIE_05 "Desaa que avisemos a su familiarmas cercano?"
