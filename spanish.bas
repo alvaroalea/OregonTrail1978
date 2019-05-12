@@ -118,7 +118,7 @@
 #define S_DONT_HAVE_SUCH "NO TIENES TANTO -- Manten tus compras por debajo"
 
 #define S_HUNTING "*** DE CAZA ***"
-#define S_HUNT_1 "BUEN DISPARO - JUSTO EN EL BLANCO -- Esta noche habra buena cena!"
+#define S_HUNT_1 "BUEN DISPARO -JUSTO EN EL BLANCO-- Esta noche habra buena cena!"
 #define S_HUNT_2 "JUSTO ENTRE LOS OJOS - HAS      PILLADO UNO GRANDE!!"
 #define S_HUNT_3 "Esta noche las barrigas estaran a rebentar"
 #define S_HUNT_4 "HAS FALLADO -- Tu cena ha escapado..."
